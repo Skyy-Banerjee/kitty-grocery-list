@@ -1,6 +1,6 @@
 # kitty-grocery-list
 A grocery list app that can be used on all devices with ease!
-https://kitty-grocery-list-soumadipbanerjee.netlify.app/
+https://kitty-grocery-list-soumadipbanerjee.netlify.app/ 📜
 
 The app can be used by anybody and everybody on any device.
 Though it's not a NATIVE mobile app, but it feels like one when it's being from a mobile device.
