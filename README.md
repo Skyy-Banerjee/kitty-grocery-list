@@ -10,3 +10,8 @@ Technologies used: HTML, CSS, vanilla JS and FireBase
 
 To have a go:
 https://kitty-grocery-list-soumadipbanerjee.netlify.app/
+
+![kitty1](https://github.com/Skyy-Banerjee/kitty-grocery-list/assets/51888502/260b7b2b-85cf-473a-a0c9-f452fefa0f39)
+
+![kitty2](https://github.com/Skyy-Banerjee/kitty-grocery-list/assets/51888502/cb8dea16-572f-4503-9801-dc24ada433b2)
+
